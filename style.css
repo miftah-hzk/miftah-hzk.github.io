@@ -62,7 +62,7 @@ img{height: 40px;width: 40px;}
     
 .window {
         width: 400px;
-        height: 30px;
+        height: auto;
         background: #fff;
         border-radius: 10px;
         position: relative;
